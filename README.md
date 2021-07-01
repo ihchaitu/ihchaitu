@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chaithanya Padi
+👋 Hi, I’m Chaithanya Padi
 
 <!---
 - 👀 I’m interested in ...
